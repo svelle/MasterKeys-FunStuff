@@ -7,4 +7,4 @@ Built with CLion/CMake all the needed files should be in this repo. I've just in
 Currently only working on Windows.
 
 numpadbuilder.html lets you select the keys on the numpad you want to get a keymap for.  
-See numPadSegments.cpp for usage.
+See numPadSegments.cpp for usage. (Special thanks to [@Obbi89](https://github.com/Obbi89) for his help)
