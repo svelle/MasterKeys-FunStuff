@@ -19,10 +19,6 @@ void ResetColor(COLOR_MATRIX &keyboard){
     }
 }
 
-void SetCheckerboard(uint8_t rgb1[3], uint8_t rgb2[3]){
-    // TODO: implement later
-}
-
 void SetByCPUUsage(){
     double CPUUsage = GetNowCPUUsage();
     auto RCPUUsage = (uint8_t)((CPUUsage / 100) * 255);

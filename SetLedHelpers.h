@@ -9,8 +9,6 @@
 
 #endif //CM_MK_TEST_SETLEDHELPERS_H
 
-void SetCheckerboard(uint8_t rgb1[3], uint8_t rgb2[3]);
-
 void SetByCPUUsage();
 
 void ResetColor(COLOR_MATRIX &keyboard);

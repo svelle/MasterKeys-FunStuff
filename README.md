@@ -1,0 +1,7 @@
+### Fun Stuff with CoolerMaster's MasterKeys SDK
+
+Just a little side project for me to learn C++ Stuffs and implementing external Libraries etc.  
+If this get's serious I'll expand this Readme. 
+
+Built with CLion/CMake all the needed files should be in this repo. I've just included x64 libs.  
+Currently only working on Windows.
